@@ -1,12 +1,12 @@
 Spring Boot + MySQL setup	    ✅ Done
 Product CRUD API	            ✅ Done
 Customer order create API	    ✅ Done
-View all orders	                ✅ Done
+View all orders	              ✅ Done
 Automatic order timestamp	    ✅ Done
-->RabbitMQ event publishing       ⏳ Pending
-Async stock decrement worker	⏳ Pending
-Invoice record generation	    ⏳ Pending
-Low-stock webhook alert	        ⏳ Pending
+->RabbitMQ event publishing   ✅ Done
+Async stock decrement worker	✅ Done
+Invoice record generation	    ✅ Done
+Low-stock webhook alert	      ✅ Done
 
 Task states: pending,
-restocked, urgent               ⏳ Pending
+restocked, urgent             ✅ Done
